@@ -1,6 +1,28 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "defi-regime",
+  "version": "0.1.0",
+  "description": "monorepo of various proposal templates, governance processes, and other deliberative sensemaking procedures for decentralized projects and protocols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/defi-regime.git"
+  },
+  "keywords": [
+    "defi",
+    "ethereum",
+    "governance",
+    "improvement",
+    "proposals"
+  ],
+  "author": "SEE CONTRIBUTORS",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/defi-regime/issues"
+  },
+  "homepage": "https://github.com/sambacha/defi-regime#readme",
   "devDependencies": {
     "lerna": "^3.22.1"
   }

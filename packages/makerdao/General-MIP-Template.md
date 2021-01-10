@@ -1,18 +1,20 @@
 # General MIP Template
 
 ## Preamble
+
 ```
 MIP#:
 Title:
-Author(s): 
+Author(s):
 Contributors:
-Type: 
+Type:
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
 ```
+
 ## References
 
 - A list of supporting materials referenced by this MIP.
@@ -31,7 +33,7 @@ Replaces:
 
 ## Motivation
 
-- A short description of the motivation behind the MIP. 
+- A short description of the motivation behind the MIP.
 
 ## Specification / Proposal Details
 
